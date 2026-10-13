@@ -1,6 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://ikhang03.github.io/FCAJ_Report/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'FCAJ Report'
 theme ="hugo-theme-learn"
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
